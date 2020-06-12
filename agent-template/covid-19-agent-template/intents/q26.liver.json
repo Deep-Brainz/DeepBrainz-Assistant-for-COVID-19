@@ -1,10 +1,10 @@
 {
-  "id": "4d431d2c-dd84-4b19-a5b8-70f082b6e031",
-  "name": "q23.dm",
+  "id": "96bf21e5-0379-462c-92f5-22b3f9d8fddc",
+  "name": "q26.liver",
   "auto": true,
   "contexts": [
     "pronouns",
-    "q23-dm"
+    "q26-liver"
   ],
   "responses": [
     {
@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have diabetes, including type 1, type 2, or gestational?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have chronic liver disease, including cirrhosis?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -28,25 +28,25 @@
             "richContent": [
               [
                 {
-                  "title": "Do #pronouns.pronoun1 have diabetes, including type 1, type 2, or gestational?",
+                  "title": "Do #pronouns.pronoun1 have chronic liver disease, including cirrhosis?",
                   "type": "description"
                 }
               ],
               [
                 {
+                  "type": "chips",
                   "options": [
                     {
-                      "image": {},
+                      "link": "",
                       "text": "Yes",
-                      "link": ""
+                      "image": {}
                     },
                     {
                       "text": "No",
-                      "link": "",
-                      "image": {}
+                      "image": {},
+                      "link": ""
                     }
-                  ],
-                  "type": "chips"
+                  ]
                 }
               ]
             ]

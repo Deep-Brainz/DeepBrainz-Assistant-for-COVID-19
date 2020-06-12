@@ -1,10 +1,10 @@
 {
-  "id": "4d431d2c-dd84-4b19-a5b8-70f082b6e031",
-  "name": "q23.dm",
+  "id": "7b118f6c-6555-4195-b553-292fed64dca3",
+  "name": "q24.immune",
   "auto": true,
   "contexts": [
     "pronouns",
-    "q23-dm"
+    "q24-immune"
   ],
   "responses": [
     {
@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have diabetes, including type 1, type 2, or gestational?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have a weakened immune system (including cancer treatment, bone marrow or organ trasplantation, immune deficiencies, HIV with a low CD4 count or not on HIV treatment, and prolonged use of corticosteroids and other immune weakening medications)?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -28,7 +28,7 @@
             "richContent": [
               [
                 {
-                  "title": "Do #pronouns.pronoun1 have diabetes, including type 1, type 2, or gestational?",
+                  "title": "Do #pronouns.pronoun1 have a weakened immune system (including cancer treatment, bone marrow or organ transplantation, immune deficiencies, HIV with a low CD4 cell count or not on HIV treatment, and prolonged use of corticosteroids and other immune weakening medications)?",
                   "type": "description"
                 }
               ],
@@ -41,9 +41,9 @@
                       "link": ""
                     },
                     {
-                      "text": "No",
+                      "image": {},
                       "link": "",
-                      "image": {}
+                      "text": "No"
                     }
                   ],
                   "type": "chips"

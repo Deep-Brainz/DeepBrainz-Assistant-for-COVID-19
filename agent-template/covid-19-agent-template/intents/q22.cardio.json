@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have congestive heart failure?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have serious heart conditions, including heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, or pulmonary hypertension?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -29,7 +29,7 @@
               [
                 {
                   "type": "description",
-                  "title": "Do #pronouns.pronoun1 have congestive heart failure?"
+                  "title": "Do #pronouns.pronoun1 have serious heart conditions, including heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, or pulmonary hypertension?"
                 }
               ],
               [
@@ -38,12 +38,12 @@
                   "options": [
                     {
                       "text": "Yes",
-                      "link": "",
-                      "image": {}
+                      "image": {},
+                      "link": ""
                     },
                     {
-                      "text": "No",
                       "link": "",
+                      "text": "No",
                       "image": {}
                     }
                   ]
