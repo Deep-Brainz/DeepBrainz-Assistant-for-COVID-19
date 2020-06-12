@@ -14,7 +14,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-# Verily Pathfinder Virtual Agent Template for COVID-19 
+# DeepBrainz Assistant for COVID-19 (Powered by Verily & Google Cloud)
 Verily, in partnership with Google Cloud, has launched a curated Dialogflow 
 template for health systems and hospitals, enabling chat or voice bots to 
 answer questions about COVID-19 symptoms and provide the latest guidance from 
