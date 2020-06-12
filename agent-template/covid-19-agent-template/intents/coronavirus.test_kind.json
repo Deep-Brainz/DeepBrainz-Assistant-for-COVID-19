@@ -1,0 +1,54 @@
+{
+  "id": "31e24e4b-a46b-46a2-9bae-248bdccc8757",
+  "name": "coronavirus.test_kind",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "909aebad-570e-458a-aef2-987ba780ad81",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThere are actually many tests being used to diagnose COVID-19 that the U.S. Food \u0026 Drug Administration (FDA) has authorized for use during the current emergency. All of these viral tests identify the virus in samples from the respiratory system, such as from nasal or nasopharyngeal swabs. Some tests are conducted at the testing site you visit, and results are available to you within minutes. Other tests must be sent to a laboratory to analyze, a process that takes 1-2 days once the lab receives your samples. Two tests allow you to collect your own sample at home (either a nasal swab or a saliva sample) but you will still need to send the sample to a lab for processing. Locations and types of testing sites vary depending on where you live. Check with your testing site to learn which test it uses. You can find a patient information sheet about each test on the FDA website.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are actually many tests being used to diagnose COVID-19 that the U.S. Food \u0026 Drug Administration (FDA) has authorized for use during the current emergency. All of these viral tests identify the virus in samples from the respiratory system, such as from nasal or nasopharyngeal swabs. Some tests are conducted at the testing site you visit, and results are available to you within minutes. Other tests must be sent to a laboratory to analyze, a process that takes 1-2 days once the lab receives your samples. Two tests allow you to collect your own sample at home (either a nasal swab or a saliva sample) but you will still need to send the sample to a lab for processing.\nLocations and types of testing sites vary depending on where you live. Check with your testing site to learn which test it uses. You can find a patient information sheet about each test on the FDA website."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

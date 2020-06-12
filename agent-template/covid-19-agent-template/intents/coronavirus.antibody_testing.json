@@ -1,0 +1,54 @@
+{
+  "id": "89de7db3-9f41-4681-80f3-7b63b035b7af",
+  "name": "coronavirus.antibody_testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20d28df5-ad4c-42a3-8a96-4617c06e7c8d",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAntibody testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus. CDC is working with other federal agencies to evaluate the performance of commercially manufactured antibody tests that are becoming increasingly available from healthcare providers. This evaluation is expected to be completed in early May. We do not know yet if the antibodies that result from infection with SARS-CoV-2 can protect someone from reinfection with this virus (immunity) or how long antibodies to the virus will protect someone. Scientists are conducting research to answer those questions. Antibody tests may not be able to tell you if you are currently infected because it typically takes 1 to 3 weeks to develop antibodies to SARS-CoV-2. To tell if you are currently infected, you would need a test that identifies the virus in samples from your upper respiratory system, such as a nasopharyngeal swab.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Antibody testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus.\nCDC is working with other federal agencies to evaluate the performance of commercially manufactured antibody tests that are becoming increasingly available from healthcare providers. This evaluation is expected to be completed in early May.\nWe do not know yet if the antibodies that result from infection with SARS-CoV-2 can protect someone from reinfection with this virus (immunity) or how long antibodies to the virus will protect someone. Scientists are conducting research to answer those questions.\nAntibody tests may not be able to tell you if you are currently infected because it typically takes 1 to 3 weeks to develop antibodies to SARS-CoV-2. To tell if you are currently infected, you would need a test that identifies the virus in samples from your upper respiratory system, such as a nasopharyngeal swab."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

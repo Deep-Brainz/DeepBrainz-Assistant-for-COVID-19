@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 experiencing any of these life-threatening symptoms? Extremely difficult breathing (can’t talk without gasping for air). Blue-colored lips or face. Severe, constant dizziness or lightheadedness. Acting confused or inability to arouse. Slurred speech (new or worsening). New onset of seizures or seizures that won’t stop.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 experiencing any of these life-threatening symptoms? Difficulty breathing. Persistent pain or pressure in the chest. New confusion. Inability to wake or stay awake.\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -30,12 +30,10 @@
                 {
                   "type": "description",
                   "text": [
-                    "Extremely difficult breathing (can\u0027t talk without gasping for air)",
-                    "Blue-colored lips or face",
-                    "Severe, constant dizziness or lightheadedness",
-                    "Acting confused or inability to arouse",
-                    "Slurred speech (new or worsening)",
-                    "New onset of seizures or seizures that won\u0027t stop"
+                    "Difficulty breathing",
+                    "Persistent pain or pressure in the chest",
+                    "New confusion",
+                    "Inability to wake or stay awake"
                   ],
                   "title": "Are #pronouns.pronoun1 experiencing any of these life-threatening symptoms?"
                 }
@@ -45,14 +43,14 @@
                   "type": "chips",
                   "options": [
                     {
-                      "image": {},
+                      "link": "",
                       "text": "Yes",
-                      "link": ""
+                      "image": {}
                     },
                     {
                       "link": "",
-                      "image": {},
-                      "text": "No"
+                      "text": "No",
+                      "image": {}
                     }
                   ]
                 }

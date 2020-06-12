@@ -1,0 +1,41 @@
+{
+  "id": "168b8d8c-5e22-4043-9797-08c6f0f9991a",
+  "name": "coronavirus.medical_care",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eIt is important to continue taking care of your health and wellness. If you have a chronic health problem, you may be at higher risk for severe illness from COVID-19.   Continue your medications, and do not change your treatment plan without talking to your healthcare provider.  Continue to manage your disease the way your healthcare provider has told you. Have at least a 2-week supply of all prescription and non-prescription medications.  Talk to your healthcare provider, insurer, and pharmacist about getting an extra supply of prescription medications, if possible, to reduce trips to the pharmacy.  Talk to your healthcare provider about whether your vaccinations are up-to-date. People aged 65 years or older, and those with some underlying medical conditions, are recommended to receive vaccinations against influenza and pneumococcal disease as soon as your provider tells you that can. Call your healthcare provider if you have any concerns about your medical conditions, or if you get sick. Call your healthcare provider to find out about different ways you can connect with your healthcare provider for chronic disease management or other conditions. Ask about phone calls, video appointments, use of the patient portal, emails and mailings. Learn more about telehealth at telehealth.hhs.gov.  Do not delay getting emergency care for your health problems or any health condition that requires immediate attention.If you need emergency help, call 911. Emergency departments have infection prevention plans to protect you from getting COVID-19 if you need care for your medical condition. Continue to practice everyday prevention: wash your hands often, keep space between yourself and others, cover your mouth and nose with a cloth face cover when around other people, cover coughs and sneezes, and clean and disinfect frequently touched surfaces often.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "It is important to continue taking care of your health and wellness. If you have a chronic health problem, you may be at higher risk for severe illness from COVID-19. \n\nContinue your medications, and do not change your treatment plan without talking to your healthcare provider. \nContinue to manage your disease the way your healthcare provider has told you. Have at least a 2-week supply of all prescription and non-prescription medications. \nTalk to your healthcare provider, insurer, and pharmacist about getting an extra supply of prescription medications, if possible, to reduce trips to the pharmacy. \nTalk to your healthcare provider about whether your vaccinations are up-to-date. People aged 65 years or older, and those with some underlying medical conditions, are recommended to receive vaccinations against influenza and pneumococcal disease as soon as your provider tells you that can.\nCall your healthcare provider if you have any concerns about your medical conditions, or if you get sick.\nCall your healthcare provider to find out about different ways you can connect with your healthcare provider for chronic disease management or other conditions. Ask about phone calls, video appointments, use of the patient portal, emails and mailings. Learn more about telehealth at telehealth.hhs.gov. \nDo not delay getting emergency care for your health problems or any health condition that requires immediate attention.If you need emergency help, call 911. Emergency departments have infection prevention plans to protect you from getting COVID-19 if you need care for your medical condition.\nContinue to practice everyday prevention: wash your hands often, keep space between yourself and others, cover your mouth and nose with a cloth face cover when around other people, cover coughs and sneezes, and clean and disinfect frequently touched surfaces often."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

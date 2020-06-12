@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "935c0269-88f9-4ea9-ac99-9decde24f350",
+          "id": "38daa6bd-4c70-4fdc-9cb0-453a26ebb40f",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -26,7 +26,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "COVID-19 was first detected in Wuhan City, Hubei Province, China. Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people. This occurred with the virus that causes COVID-19."
+          "speech": "COVID-19 is caused by a coronavirus called SARS-CoV-2. Coronaviruses are a large family of viruses that are common in people and may different species of animals, including camels, cattle, cats, and bats.  Rarely, animal coronaviruses can infect people and then spread between people. This occurred with MERS-CoV and SARS-CoV, and now with the virus that causes COVID-19. The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir. However, the exact source of this virus is unknown.\n\nMore information about the source and spread of COVID-19 is available on the CDC website."
         },
         {
           "type": 14,
@@ -34,7 +34,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003e\u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e was first detected in Wuhan City, Hubei Province, China. Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people. This occurred with the virus that causes \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eCOVID-19 is caused by a coronavirus called SARS-CoV-2. Coronaviruses are a large family of viruses that are common in people and may different species of animals, including camels, cattle, cats, and bats.  Rarely, animal coronaviruses can infect people and then spread between people. This occurred with MERS-CoV and SARS-CoV, and now with the virus that causes COVID-19. The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir. However, the exact source of this virus is unknown.  More information about the source and spread of COVID-19 is available on the CDC website.\u003c/speak\u003e"
         }
       ],
       "defaultResponsePlatforms": {},

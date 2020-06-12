@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c53a66a1-3b21-40d4-8929-b33217a41c12",
+    "data": [
+      {
+        "text": "Do kids get different symptoms from ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44d10d43-c50a-4531-8864-32420221a88e",
+    "data": [
+      {
+        "text": "Are the symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " different in children than in adults?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

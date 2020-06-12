@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8fe00e4e-136a-4e77-ad51-27dfcc387153",
+    "data": [
+      {
+        "text": "How long after recovering can someone spread ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c492a93f-0fe2-48f7-acfd-ee2d9c3bab6a",
+    "data": [
+      {
+        "text": "Can someone spread ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " after getting better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18298a25-541e-4816-99cb-0d7abea139eb",
+    "data": [
+      {
+        "text": "How long can someone spread ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " to others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "468317b1-7bfd-412a-8488-adbacc30d1f3",
+    "data": [
+      {
+        "text": "Can someone who has had ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " spread it to others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "0899c9a6-460e-487c-924f-46629b01a61f",
+  "name": "coronavirus.at_risk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b3d0fbe-97ef-407f-a397-4a102ee4c1c1",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "05b3bbd8-e068-4a60-aedb-c7ce01adb98a",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThis is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

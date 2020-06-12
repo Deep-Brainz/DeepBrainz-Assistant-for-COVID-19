@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f1d40db5-e4c7-473b-9ed6-fad3994032cd",
+    "data": [
+      {
+        "text": "Someone in my house has ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97167dfc-1b92-4017-8904-1e873aa0e2d6",
+    "data": [
+      {
+        "text": "What if my roommate is sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6c27710-cbca-4863-91fa-20bc42165e75",
+    "data": [
+      {
+        "text": "What should I do if someone in my house gets sick with ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

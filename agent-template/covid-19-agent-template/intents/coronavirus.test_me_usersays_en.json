@@ -1,0 +1,90 @@
+[
+  {
+    "id": "87937eb9-5441-4320-9f91-e46871203d99",
+    "data": [
+      {
+        "text": "Should everyone get a ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "649664b5-3546-402d-82e9-3a9fd3a460c3",
+    "data": [
+      {
+        "text": "Who needs a ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77d0d3cb-c8a3-4658-b431-ab9f75335205",
+    "data": [
+      {
+        "text": "Should I be tested for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ffa1b28-5b6a-4c12-aaee-3bd5c6021388",
+    "data": [
+      {
+        "text": "Do I need a test for ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following symptoms. Runny or stuffy nose. Sore throat. Muscle aches or body aches. Fatigue or malaise. Nausea, vomiting or diarrhea. Chills. New loss of taste or smell.\u003cspeak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following symptoms. Chills. Fatigue. Muscle or body aches. Headaches. New loss of taste or smell. Sore throat. Congestion or runny nose. Nausea or vomiting. Diarrhea.\u003cspeak\u003e"
         },
         {
           "type": 4,
@@ -28,31 +28,33 @@
             "richContent": [
               [
                 {
-                  "type": "description",
                   "text": [
-                    "Runny or stuffy nose",
-                    "Sore throat",
-                    "Muscle aches or body aches",
-                    "Fatigue or malaise",
-                    "Nausea, vomiting or diarrhea",
                     "Chills",
-                    "New loss of taste or smell"
+                    "Fatigue",
+                    "Muscle or body aches",
+                    "Headaches",
+                    "New loss of taste or smell",
+                    "Sore throat",
+                    "Congestion or runny nose",
+                    "Nausea or vomiting",
+                    "Diarrhea"
                   ],
-                  "title": "Do #pronouns.pronoun1 have any of the following symptoms:"
+                  "title": "Do #pronouns.pronoun1 have any of the following symptoms:",
+                  "type": "description"
                 }
               ],
               [
                 {
                   "options": [
                     {
-                      "text": "Yes",
                       "image": {},
+                      "text": "Yes",
                       "link": ""
                     },
                     {
+                      "text": "No",
                       "image": {},
-                      "link": "",
-                      "text": "No"
+                      "link": ""
                     }
                   ],
                   "type": "chips"

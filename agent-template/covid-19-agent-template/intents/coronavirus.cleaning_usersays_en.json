@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b017059a-d8cf-4f5a-83eb-eab17b9eb537",
+    "data": [
+      {
+        "text": "What can I use to clean and disinfect ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cbae965-f5fe-466a-866a-faadf7485491",
+    "data": [
+      {
+        "text": "What cleaning products should I use to protect against ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

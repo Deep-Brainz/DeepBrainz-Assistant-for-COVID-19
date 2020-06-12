@@ -1,0 +1,90 @@
+[
+  {
+    "id": "d79f3f88-f193-4087-bad6-7d3bcfc7024e",
+    "data": [
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " antibodies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "162e4916-3b64-418c-a616-d9d99ffbf0f6",
+    "data": [
+      {
+        "text": "Antibody testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27fbcce7-a920-43e0-ad12-9f07d6a2f23b",
+    "data": [
+      {
+        "text": "Do I have antibodies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92e107b2-39dc-45f5-879f-480d5696340c",
+    "data": [
+      {
+        "text": "Can I get tested for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " with antibodies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "598e73d9-f9cb-4a47-88b8-0b340ea68ba9",
+    "data": [
+      {
+        "text": "Can I be tested for antibodies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1ce10d-6e6d-4eb4-bac0-e2604e549120",
+    "data": [
+      {
+        "text": "What is antibody testing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

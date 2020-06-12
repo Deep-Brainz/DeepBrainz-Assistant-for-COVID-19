@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "01ccca5d-b3b7-4080-aa97-73b10c8c5ed0",
+          "id": "7861b03c-6de8-474e-8b9d-07aea4b75030",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -28,13 +28,13 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eCDC has two confirmed cases of pet cats in the United States becoming sick with mild resperatory illness caused by COVID-19. SARS-CoV-2 infections have been reported in very few animals worldwide, mostly in those that had close contact with a person with COVID-19.To date, there is no evidence that pets can spread the virus to people. Until more information is known about the new coronavirus it is recommended that pets should not interact with people or animals outside the household, and people sick with COVID-19 should limit contact with animals. When possible, have another member of your household care for your animals while you are sick.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eAt this time, there is no evidence that animals play a significant role in spreading the virus that causes COVID-19. Based on the limited information available to date, the risk of animals spreading COVID-19 to people is considered to be low.  A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.  Pets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 outbreak.  However, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on the many benefits of pet ownership, as well as staying safe and healthy around animals including pets, livestock, and wildlife, visit the CDC’s Healthy Pets, Healthy People website..\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "CDC has two confirmed cases of pet cats in the United States becoming sick with mild resperatory illness caused by COVID-19. SARS-CoV-2 infections have been reported in very few animals worldwide, mostly in those that had close contact with a person with COVID-19.To date, there is no evidence that pets can spread the virus to people. Until more information is known about the new coronavirus it is recommended that pets should not interact with people or animals outside the household, and people sick with COVID-19 should limit contact with animals. When possible, have another member of your household care for your animals while you are sick."
+          "speech": "At this time, there is no evidence that animals play a significant role in spreading the virus that causes COVID-19. Based on the limited information available to date, the risk of animals spreading COVID-19 to people is considered to be low.  A small number of pets have been reported to be infected with the virus that causes COVID-19, mostly after contact with people with COVID-19.\n\nPets have other types of coronaviruses that can make them sick, like canine and feline coronaviruses. These other coronaviruses cannot infect people and are not related to the current COVID-19 outbreak.\n\nHowever, since animals can spread other diseases to people, it’s always a good idea to practice healthy habits around pets and other animals, such as washing your hands and maintaining good hygiene. For more information on the many benefits of pet ownership, as well as staying safe and healthy around animals including pets, livestock, and wildlife, visit the CDC’s Healthy Pets, Healthy People website."
         }
       ],
       "defaultResponsePlatforms": {},

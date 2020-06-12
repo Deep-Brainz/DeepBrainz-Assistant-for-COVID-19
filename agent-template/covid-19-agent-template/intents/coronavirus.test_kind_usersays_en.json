@@ -1,0 +1,68 @@
+[
+  {
+    "id": "17ff3672-cd43-4686-9d2a-8072b758a25d",
+    "data": [
+      {
+        "text": "What kind of test do I need to get checked for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa35d906-dd8c-4861-82b9-4f30105eb3b5",
+    "data": [
+      {
+        "text": "What test diagnoses ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c593150b-d28c-4a22-bb87-f9c1b87a74b8",
+    "data": [
+      {
+        "text": "What kind of test is being used to diagnose if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

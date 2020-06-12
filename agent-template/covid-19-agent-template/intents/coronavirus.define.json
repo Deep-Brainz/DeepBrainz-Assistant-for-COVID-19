@@ -15,13 +15,13 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, there are many different coronaviruses (CoV). They can cause illnesses ranging from the common cold to more severe lung infection. \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e is the disease caused by the new or \"novel\" coronavirus.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eA novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold.  A diagnosis with coronavirus 229E, NL63, OC43, or HKU1 is not the same as a COVID-19 diagnosis. Patients with COVID-19 will be evaluated and cared for differently than patients with common coronavirus diagnosis.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "According to the World Health Organization, there are many different coronaviruses (CoV). They can cause illnesses ranging from the common cold to more severe lung infection. COVID-19 is the disease caused by the new or \"novel\" coronavirus."
+          "speech": "A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold.\n\nA diagnosis with coronavirus 229E, NL63, OC43, or HKU1 is not the same as a COVID-19 diagnosis. Patients with COVID-19 will be evaluated and cared for differently than patients with common coronavirus diagnosis."
         }
       ],
       "defaultResponsePlatforms": {},

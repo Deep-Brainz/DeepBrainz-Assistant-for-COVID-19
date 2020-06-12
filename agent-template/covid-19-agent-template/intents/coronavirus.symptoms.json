@@ -15,13 +15,13 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included fever, with a temperature above 100.4 °F or 38 °C, cough, shortness of breath or difficulty breathing, chills, muscle pain, sore throat, and new loss of taste or smell. Symptoms may appear 2-14 days after exposure. This list is not all inclusive. Other less common symptoms have been reported, including gastrointestinal symptoms like nausea, vomiting, or diarrhea.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, diarrhea. Symptoms may appear 2-14 days after exposure. This list does not include all possible symptoms.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "According to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included fever, with a temperature above 100.4 °F or 38 °C, cough, shortness of breath or difficulty breathing, chills, muscle pain, sore throat, and new loss of taste or smell. Symptoms may appear 2-14 days after exposure. This list is not all inclusive. Other less common symptoms have been reported, including gastrointestinal symptoms like nausea, vomiting, or diarrhea."
+          "speech": "According to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, diarrhea. Symptoms may appear 2-14 days after exposure. This list does not include all possible symptoms."
         }
       ],
       "defaultResponsePlatforms": {},

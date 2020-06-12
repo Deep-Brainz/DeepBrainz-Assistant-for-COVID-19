@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0486362c-df7b-4660-abe7-7efdc9976ac6",
+    "data": [
+      {
+        "text": "Will I be immune when I get better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "385a7bdf-c26e-468b-9716-3aa22bfa7bd8",
+    "data": [
+      {
+        "text": "How long will I be immune after recovering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c548151d-ccad-49ff-8da3-ee95804ea7ad",
+    "data": [
+      {
+        "text": "Can you catch ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "157a2243-6e9a-4980-9938-e564f2cc02a2",
+    "data": [
+      {
+        "text": "If I have recovered from ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": ", will I be immune to it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03960004-8029-4f45-93c1-fdb26487c9ed",
+    "data": [
+      {
+        "text": "Can you be immune to ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

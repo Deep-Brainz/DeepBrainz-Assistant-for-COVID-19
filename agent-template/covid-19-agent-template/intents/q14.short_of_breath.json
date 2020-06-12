@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 feeling short of breath?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have shortness of breath or difficulty breathing?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -29,7 +29,7 @@
               [
                 {
                   "type": "description",
-                  "title": "Are #pronouns.pronoun1 feeling short of breath?"
+                  "title": "Do #pronouns.pronoun1 have shortness of breath or difficulty breathing?"
                 }
               ],
               [
@@ -37,14 +37,14 @@
                   "type": "chips",
                   "options": [
                     {
+                      "link": "",
                       "image": {},
-                      "text": "Yes",
-                      "link": ""
+                      "text": "Yes"
                     },
                     {
-                      "text": "No",
+                      "image": {},
                       "link": "",
-                      "image": {}
+                      "text": "No"
                     }
                   ]
                 }

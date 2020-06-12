@@ -15,13 +15,13 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eThe Center for Disease Control and Prevention recommends that you cover your mouth and nose with a cloth when you go out. Children under age 2 and people who have trouble breathing or might not be able to take off their own mask shouldn\u0027t wear one. Don\u0027t wear a mask intended for health care workers and always continue to keep at least 6 feet away from other people, even when wearing a mask.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eIn light of new data about how COVID-19 spreads, along with evidence of widespread COVID-19 illness in communities across the country, CDC recommends that people wear a cloth face covering to cover their nose and mouth in the community setting. This is an additional public health measure people should take to reduce the spread of COVID-19 in addition to (not instead of) social distancing, frequent hand cleaning and other everyday preventive actions. A cloth face covering is not intended to protect the wearer, but may prevent the spread of virus from the wearer to others. This would be especially important in the event that someone is infected but does not have symptoms.  A cloth face covering should be worn whenever people must go into public settings (grocery stores, for example). Medical masks and N-95 respirators are reserved for healthcare workers and other first responders, as recommended by current CDC guidance.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "The Center for Disease Control and Prevention recommends that you cover your mouth and nose with a cloth when you go out. Children under age 2 and people who have trouble breathing or might not be able to take off their own mask shouldn\u0027t wear one. Don\u0027t wear a mask intended for health care workers and always continue to keep at least 6 feet away from other people, even when wearing a mask."
+          "speech": "In light of new data about how COVID-19 spreads, along with evidence of widespread COVID-19 illness in communities across the country, CDC recommends that people wear a cloth face covering to cover their nose and mouth in the community setting. This is an additional public health measure people should take to reduce the spread of COVID-19 in addition to (not instead of) social distancing, frequent hand cleaning and other everyday preventive actions. A cloth face covering is not intended to protect the wearer, but may prevent the spread of virus from the wearer to others. This would be especially important in the event that someone is infected but does not have symptoms. \nA cloth face covering should be worn whenever people must go into public settings (grocery stores, for example). Medical masks and N-95 respirators are reserved for healthcare workers and other first responders, as recommended by current CDC guidance."
         }
       ],
       "defaultResponsePlatforms": {},

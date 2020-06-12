@@ -1,6 +1,6 @@
 {
-  "id": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
-  "name": "coronavirus.protect",
+  "id": "9ea0d04f-4e73-40ed-a07a-083c3ea8a5e6",
+  "name": "coronavirus.house",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "37efd644-19ef-4f1b-86fd-fc70816dae0c",
+          "id": "32ed96bd-610e-4c87-bc82-b1438fe441ce",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -28,16 +28,18 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eMost people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          "speech": "Most people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers."
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
       "speech": []
     }
   ],

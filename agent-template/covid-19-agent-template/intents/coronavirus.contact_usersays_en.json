@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a47e35a4-8bed-4459-9142-75ee831e7354",
+    "data": [
+      {
+        "text": "I\u0027ve had close contact with someone who has ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f0fbb85-f73b-4582-932d-c08f6ed3b2ea",
+    "data": [
+      {
+        "text": "What should I do if I\u0027ve met someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5ee0a0e-ad32-454c-8d14-4e192c5c0ecd",
+    "data": [
+      {
+        "text": "I\u0027ve been exposed to ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9e1283d-6e64-4e2f-af09-855e36b39e09",
+    "data": [
+      {
+        "text": "What should I do if I have had close contact with someone who has ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

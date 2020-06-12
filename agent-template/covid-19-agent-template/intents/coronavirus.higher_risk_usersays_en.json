@@ -1,0 +1,48 @@
+[
+  {
+    "id": "89d0e258-27fd-42c7-adee-75280231719d",
+    "data": [
+      {
+        "text": "What if I have high risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "568f440e-4665-4609-89ce-73b58ba67118",
+    "data": [
+      {
+        "text": "What should I do if I have risk factors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dd3289b-02ed-4d0c-bbb2-c1edd94741af",
+    "data": [
+      {
+        "text": "What should people at higher risk of serious illness with ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

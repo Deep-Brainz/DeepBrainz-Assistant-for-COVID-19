@@ -1,0 +1,120 @@
+[
+  {
+    "id": "678eb3a2-ecb3-4874-9123-19faec8f1eca",
+    "data": [
+      {
+        "text": "Can COVID-19 spread from food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec90c305-5325-4a5e-9afc-3688948991f2",
+    "data": [
+      {
+        "text": "Do ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": " deliveries spread ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "676e129f-81b4-415c-a63b-220f3c7fb4f1",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " spread through takeout?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a310ccc5-d964-4b43-af53-05df934c4ef7",
+    "data": [
+      {
+        "text": "Can the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " that causes ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-191",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " be spread through ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": ", including restaurant take out, refrigerated or frozen packaged ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface1",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

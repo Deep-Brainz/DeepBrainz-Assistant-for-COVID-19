@@ -1,0 +1,62 @@
+[
+  {
+    "id": "790155fa-c213-4e6d-bab7-76999975543e",
+    "data": [
+      {
+        "text": "Can I still get medical care?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "630438d8-c5b3-4d46-8fa0-a65a9c4e641a",
+    "data": [
+      {
+        "text": "Can I go to the doctor for my other conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9189585-6f75-4850-8c84-13364f96a0a1",
+    "data": [
+      {
+        "text": "Can I still go to my regular medical appointments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "918515bf-02f1-4ad6-8fa0-aa1a5fde52ef",
+    "data": [
+      {
+        "text": "Is it safe to go to the doctor right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "714d4b25-61bd-4c41-a84c-2158f0739844",
+    "data": [
+      {
+        "text": "Is it safe to get medical care for my other medical conditions during this time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

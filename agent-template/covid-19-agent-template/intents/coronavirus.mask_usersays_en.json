@@ -1,5 +1,41 @@
 [
   {
+    "id": "124f3b58-7d13-473b-9293-19ea0db18700",
+    "data": [
+      {
+        "text": "Does CDC recommend the use of facemask or face coverings to prevent COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dc2c1dc-b803-4e5a-8442-529a6f31c267",
+    "data": [
+      {
+        "text": "Should I cover my face to prevent coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5efea15e-940c-454a-8b52-181c0bca6433",
+    "data": [
+      {
+        "text": "Should I use a face mask to prevent COVID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "9b61e4cd-c961-4eab-b550-85d6e5ff1e3d",
     "data": [
       {

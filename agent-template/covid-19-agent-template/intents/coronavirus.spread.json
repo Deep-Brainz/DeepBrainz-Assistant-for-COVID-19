@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "5193ed56-2551-42d8-9d8b-86da3258f367",
+          "id": "3fca773c-dd48-40c3-aff1-b960d0ca1876",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -21,7 +21,7 @@
           "isList": false
         },
         {
-          "id": "5045c96a-ace6-44fe-8ae6-de7ad5fbb772",
+          "id": "5e0af2b5-29ee-444b-8bfe-d92edf871129",
           "required": false,
           "dataType": "@sys.number",
           "name": "number",
@@ -38,7 +38,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "The virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus."
+          "speech": "The virus that causes COVID-19 is thought to spread mainly from person to person, mainly through respiratory droplets produced when an infected person coughs or sneezes. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Spread is more likely when people are in close contact with one another (within about 6 feet).\n\nCOVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in many affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.\n\nVisit the CDC website to learn what is known about the spread of newly emerged coronaviruses."
         },
         {
           "type": 14,
@@ -46,7 +46,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eThe virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eThe virus that causes COVID-19 is thought to spread mainly from person to person, mainly through respiratory droplets produced when an infected person coughs or sneezes. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Spread is more likely when people are in close contact with one another (within about 6 feet).  COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in many affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.  Visit the CDC website to learn what is known about the spread of newly emerged coronaviruses.\u003c/speak\u003e"
         }
       ],
       "defaultResponsePlatforms": {},

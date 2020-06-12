@@ -1,6 +1,6 @@
 {
-  "id": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
-  "name": "coronavirus.protect",
+  "id": "a00e66ad-e915-4c5b-accc-85a55cdff47e",
+  "name": "coronavirus.immune",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "37efd644-19ef-4f1b-86fd-fc70816dae0c",
+          "id": "2669cddc-6ff4-415f-a26a-ac95bf43ba17",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -28,16 +28,18 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eCDC and partners are investigating to determine if you can get sick with COVID-19 more than once. At this time, we are not sure if you can become re-infected. Until we know more, continue to take steps to protect yourself and others.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          "speech": "CDC and partners are investigating to determine if you can get sick with COVID-19 more than once. At this time, we are not sure if you can become re-infected. Until we know more, continue to take steps to protect yourself and others."
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
       "speech": []
     }
   ],

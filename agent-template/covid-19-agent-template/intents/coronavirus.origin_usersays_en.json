@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad635602-3aec-4962-b7f4-921dd0b6261e",
+    "data": [
+      {
+        "text": "What is the source of the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "42c77865-f87a-4232-b515-14f32dae36d8",
     "data": [
       {

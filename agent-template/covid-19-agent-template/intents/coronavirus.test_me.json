@@ -1,6 +1,6 @@
 {
-  "id": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
-  "name": "coronavirus.protect",
+  "id": "46ecea42-debe-45a1-8b09-79aaf63b0b61",
+  "name": "coronavirus.test_me",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "37efd644-19ef-4f1b-86fd-fc70816dae0c",
+          "id": "b659058e-f4a7-4de6-a30a-1da36d0d438f",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -28,16 +28,18 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eNot everyone needs to be tested for COVID-19. For information about testing, visit the CDC website.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          "speech": "Not everyone needs to be tested for COVID-19. For information about testing, visit the CDC website."
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
       "speech": []
     }
   ],

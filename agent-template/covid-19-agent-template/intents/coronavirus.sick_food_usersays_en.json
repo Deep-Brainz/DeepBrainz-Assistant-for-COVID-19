@@ -1,0 +1,98 @@
+[
+  {
+    "id": "10b65f96-0ad4-4454-af89-e07f26de256e",
+    "data": [
+      {
+        "text": "What if ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " gets on my ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32867e9a-082c-4471-9656-23a04e6e79bd",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " if it\u0027s in my ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eff46167-d9f3-466f-8685-799fe301cd18",
+    "data": [
+      {
+        "text": "Can I get sick with ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " if it is on ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

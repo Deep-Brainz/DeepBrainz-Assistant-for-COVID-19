@@ -1,6 +1,6 @@
 {
-  "id": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
-  "name": "coronavirus.protect",
+  "id": "cf21dcc0-95f6-4b44-b64d-cdd4bd768eda",
+  "name": "coronavirus.contact",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "37efd644-19ef-4f1b-86fd-fc70816dae0c",
+          "id": "135a892c-5877-40ca-b2f9-523a85d6a4ed",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -28,16 +28,18 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eThere is information for people who have had close contact with a person confirmed to have, or being evaluated for, COVID-19 available on the CDC website.\u003c/speak\u003e"
         },
         {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          "speech": "There is information for people who have had close contact with a person confirmed to have, or being evaluated for, COVID-19 available on the CDC website."
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
       "speech": []
     }
   ],
