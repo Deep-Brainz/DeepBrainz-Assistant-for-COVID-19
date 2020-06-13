@@ -36,66 +36,6 @@ updated regularly by Verily
 Information on COVID-19 changes frequently. Check release dates and review 
 content before launching your bot.
 
-## Agent Deployment
-Verily provides the [Dialogflow Verily COVID-19 Pathfinder virtual agent 
-template (the "Template")](./agent-template/covid-19-agent-template.zip), so you 
-can import it into your own agent and make changes to fit your needs.
-
-### Import the Dialogflow Verily COVID-19 Pathfinder Virtual Agent Template into Your Agent
-1. Download the [Dialogflow COVID-19 Agent Template](./agent-template/covid-19-agent-template.zip)
-1. Create a new agent.
-1. Click the Settings icon.
-1. Select the Export and Import tab, then click the IMPORT FROM ZIP button to 
-import the agent template.
-![Import Agent Screenshot](./resources/import-export.png)
-
-### Import and Deploy Fulfillment into Your Agent
-*Please note there are three special intents (coronavirus.closure and coronavirus.confirmed_cases and coronavirus.death) which require you to set up the Google Maps API and BigQuery API. Please follow up step 8-10 to set up the APIs.*
-1. Download Fulfillment from [Dialogflow COVID-19 Fulfillment.](./agent-template/dialogflow-fulfillment.zip).
-1. Click "Fulfillment" in the left sidebar.
-1. Toggle the switch to enable the Inline Editor.
-![Inline Editor Screenshot](./resources/inline-editor.png).
-1. Follow the instruction on the screen to enable fulfillment via Cloud 
-Functions and enable billing for the Cloud project.
-1. Go to the Google Cloud Console and select Cloud Functions on the left panel.
-![Cloud Function Screenshot](./resources/cloud-function.png)
-1. Select the fulfillment and click Edit button.
-![Cloud Function Edit Screenshot](./resources/cloud-function-edit.png)
-1. Under the "Source code" section, select "ZIP upload" and upload the 
-fulfillment zip file downloaded at step 1. Then select a Stage bucket (you may need to create one if it hasn't been created yet).
-1. [Optional] Follow [Quickstart](https://developers.google.com/maps/gmp-get-started#quickstart) to enable [Google Maps Places API](https://developers.google.com/places/web-service/intro) if you haven't done so. Go to GCP API & Services->Credentials component to creat an API key for calling the Google Maps API (More detailed instructions are listed at [Get an API Key](https://developers.google.com/places/web-service/get-api-key?hl=en_US).
-![Create API Key Screenshot](./resources/create-api-key.png)
-1.  Set GOOGLE_MAPS_API_KEY environment variable to the API key when deploy Cloud Function. (More details can be found at  [Cloud Function Updating Environment Variable](https://cloud.google.com/functions/docs/env-var#updating_environment_variables))
-![Set Maps API Key Screenshot](./resources/set-maps-api-key.png)
-1. [Optional] To use metrics for COVID-19, Enable the [BigQuery API](https://console.cloud.google.com/flows/enableapi?apiid=bigquery) by selecting your project.
-
-## Integrate with Verily Pathfinder Virtual Agent Template for COVID-19
-
-### Interact with the Dialogflow Console
-Type your text query input in the Dialogflow Simulator. *Please note that custom payload of response may not show up on Dialogflow Console, you can click DIAGNOSTIC INFO to get more information about the response*.
-![Dialogflow Console Screenshot](./resources/dialogflow-console.png)
-
-### Integrate with [Dialogflow Messenger](https://cloud.google.com/dialogflow/docs/integrations/dialogflow-messenger)
-1. Go to the Dialogflow Console.
-1. Select your agent.
-1. Click Integrations in the left sidebar menu.
-1. Enable the Dialogflow Messenger integration.
-1. Open the agent's web page using the provided link. This page provides a text 
-chat interface. Type your input query and press enter. The agent responds with 
-the response from your agent.
-![Dialogflow Messenger Screenshot](./resources/dialogflow-messenger.png)
-1. [Optional] You may also embed the Dialogflow Messenger into your website by 
-following the instructions.
-
-### Integrate with this Chat App
-This chat application provides a front end chat interface to a Dialogflow Agent. 
-*Please note this chat app not an official Google product.* 
-
-![A screenshot of the chatbot talking with a COVID-19 bot.](/resources/chat-app.png "Chat App Screenshot")
-
-### Integrate with Twilio to provide the agent over SMS [optional]
-You can deploy a Twilio to Dialogflow "bridge" running serverless Cloud Run to expose your agent over SMS. See the [these instructions](./twilio-sms).
-
 #### Requirements
 * A GCP Project with existing Dialogflow Agent setup in a project we'll refer 
 to as `PROJECTDIALOGFLOW`
@@ -108,33 +48,6 @@ refer to as `PROJECTAPPENGINE`
 
 ##### Requirements for development
 * run `npm install -g @angular/cli`
-
-#### Setup
-* In `/Makefile` set `PROJECTDIALOGFLOW` and `PROJECTAPPENGINE` 
-* In `/server/app.yaml` Set `PROJECTDIALOGFLOW`
-* Run `make init` 
-* To develop, you will need a need a service account and credentials. To do 
-this run `make serviceaccount`
-
-##### Explanation
-Running `make init` will do the following:
-* Enable API access on `PROJECTAPPENGINE`
-* Intialize AppEngine on `PROJECTAPPENGINE`
-* Enable Cloud Run service account to deploy to AppEngine on `PROJECTAPPENGINE`
-* Enable AppEngine on `PROJECTAPPENGINE` service account to call Dialogflow 
-on `PROJECTDIALOGFLOW`  
-* Create service account for Dialogflow   
-* Grant service account access to `PROJECTDIALOGFLOW`
-* Download key for service account. 
-* Install node_modules. 
-* Create Angular builder for Cloud Build 
-
-#### To Develop
-* Run `export GOOGLE_APPLICATION_CREDENTIALS=[replace with the path to this app]/creds/creds.json`
-* Run `make dev`
-
-#### To Deploy
-* Run `make deploy`
 
 ### Interaction with Dialogflow API
 You can follow this [quick start](https://cloud.google.com/dialogflow/docs/quick/api) to interact with your agent using Dialogflow API.
