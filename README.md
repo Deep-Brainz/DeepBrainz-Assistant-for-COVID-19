@@ -36,6 +36,9 @@ updated regularly by Verily
 Information on COVID-19 changes frequently. Check release dates and review 
 content before launching your bot.
 
+### Integrate with Twilio to provide the agent over SMS [optional]
+You can deploy a Twilio to Dialogflow "bridge" running serverless Cloud Run to expose your agent over SMS. See [these instructions](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo/tree/master/twilio-sms).
+
 #### Requirements
 * A GCP Project with existing Dialogflow Agent setup in a project we'll refer 
 to as `PROJECTDIALOGFLOW`
