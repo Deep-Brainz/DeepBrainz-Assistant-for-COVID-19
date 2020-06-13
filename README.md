@@ -39,19 +39,6 @@ content before launching your bot.
 ### Integrate with Twilio to provide the agent over SMS [optional]
 You can deploy a Twilio to Dialogflow "bridge" running serverless Cloud Run to expose your agent over SMS. See [these instructions](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo/tree/master/twilio-sms).
 
-#### Requirements
-* A GCP Project with existing Dialogflow Agent setup in a project we'll refer 
-to as `PROJECTDIALOGFLOW`
-* A second GCP project that will host this application using AppEngine we'll 
-refer to as `PROJECTAPPENGINE`
-* You must login to gcloud as a user that has access to both projects.
-* Install gcloud SDK
-* Install node.js
-* Install make
-
-##### Requirements for development
-* run `npm install -g @angular/cli`
-
 ### Interaction with Dialogflow API
 You can follow this [quick start](https://cloud.google.com/dialogflow/docs/quick/api) to interact with your agent using Dialogflow API.
  
