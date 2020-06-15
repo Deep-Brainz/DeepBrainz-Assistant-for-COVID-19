@@ -55,7 +55,7 @@ init: env
 	@echo ~~~~~~~~~~~~~ Install node_modules. 
 	-cd chat-interface && npm install
 	@echo ~~~~~~~~~~~~~Install Go vendor dependencies
-	-cd server && go mod vender
+	-cd server && go mod vendor
 	@echo ~~~~~~~~~~~~~ Create Angular builder for Cloud Build 
 	-cd builder && make build
 	
